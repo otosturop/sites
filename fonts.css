@@ -1,0 +1,22 @@
+*{padding: 0px; margin: 0px;}
+a{text-decoration: none;}
+body {background-color: #ACB78E;}
+#generaldiv {width: 960px; margin: 0 auto;}
+#leftside {background-image: url(leftside.png); width: 250px; position: fixed; height: 100%;}
+#rightside {background-image: url(rightside.png); width:670px;  position: relative; float: right; min-height: 100%;}
+#leftorange {background-color: orange; padding:3px; text-align: center; font: 14px arial; font-weight: bold; color: white; margin-top: 10px;}
+#profile {margin: 20px; padding: 5px; background-color: gray;}
+#mydep{margin: 10px; color: gray; font-weight: bold; font-style: italic;}
+#menu {list-style-type: none;}
+#menu li {padding: 10px; background-color: #666666; color: white; margin-top: 10px;}
+#menu li:hover {background-color: #777777; padding-left: 15px;}
+.headline {background-color: #222222; padding: 10px; width: 450px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; color: white; 
+margin-top: 10px; margin-bottom: 10px; font-weight: bold}
+.information {color: gray; padding: 5px;}
+p{ text-indent:25px;}
+#links{list-style-type: none;}
+#links li{padding:10px; color:gray;}
+#links li:hover{padding:10px; color:black;}
+#hu{padding:5px; background-color:gray;}
+#ce{padding:5px; background-color:gray;}
+#CV{text-align: right;margin-right: 25px; margin-bottom: 10px}
